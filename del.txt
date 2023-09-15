@@ -1,9 +1,3 @@
 note pad test file
 change1
-soft
-mixed
-staging state
-
-working stage 
-ws change1
-ws change2
+change2
