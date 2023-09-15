@@ -1,3 +1,9 @@
 note pad test file
 change1
-reset soft/mixed
+soft
+mixed
+staging state
+
+working stage 
+ws change1
+ws change2
